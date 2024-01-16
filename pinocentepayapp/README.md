@@ -1,3 +1,3 @@
 # PinocentePayApp
 
-Esta aplicación esta realizada con Vue.js
+Esta aplicación fue realizada con Vue.js
