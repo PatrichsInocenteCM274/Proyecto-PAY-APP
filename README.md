@@ -1,4 +1,4 @@
-# Proyecto-PAY-APP
+# ✨ Proyecto-PAY-APP 🧾💁‍♂️💳✨
 
 Este proyecto incursionó en el uso de la pasarela de pagos Stripe, mediante el consumo de su Api Rest en modo test.
 
