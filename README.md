@@ -1,6 +1,11 @@
 # Proyecto-PAY-APP
 
-Este proyecto incursionó en el uso de la pasarela de pagos Stripe.
+Este proyecto incursionó en el uso de la pasarela de pagos Stripe, mediante el consumo de su Api Rest en modo test.
+
+El sistema de archivos presentado en el repositorio es el siguiente:
+
+- CODIGO FRONTED (Vue.js): /pinocentepayapp
+- CÓDIGO BACKEND API SERVER (Express.js): /pinocentevpayapp_api_server
 
 La infraestuctura del sistema es la siguiente:
 
