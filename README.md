@@ -91,6 +91,6 @@ Ahora el fronted estará corriendo en el puerto 8080.
 
 3. Navegue a su navegador favorito y copie en la barra de direcciones http://localhost:8080/ , finalmente usted podrá ver la aplicación corriendo correctamente.
 
-4. Si usted desea ver las transacciones que se han guardado hasta el momento en la base de datos, puede simplemente acceder a http://localhost:5000/get_transactions
+4. Si usted desea ver las transacciones que se han guardado hasta el momento en la base de datos, puede simplemente acceder a http://localhost:5000/get_transactions , esto le será muy util para poder dar monitorie al id de transacciones que se van generando y que puede usted ingresar una id_transaction en el form de las vistas SEARCH TRANSACTION y TRANSACTION HISTORICAL REPORT para extraer los datos y reportes de una transacción especifica.
 
 ### That's all, thanks for watching!
