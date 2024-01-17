@@ -27,6 +27,11 @@ Finalmente se muestra las vistas creadas del fronted y su flujo:
 
 Antes de seguir las instrucciones, asegurese de contar con la instalación de npm y tener una cuenta de clever Cloud y Stripe, sin ello no podrá tener acceso a todas las funcionalidades del app.
 
+### 0. Clone el proyecto a su maquina local e ingrese al directorio del proyecto
+~~~
+git clone https://github.com/PatrichsInocenteCM274/Proyecto-PAY-APP.git
+~~~
+
 ### 1. Creación de la bbdd en Clever Cloud
 Dirijase a https://www.clever-cloud.com/product/mysql/ y cree una bbdd con mysql, luego de ello conectese de forma remota a la bbdd ingresando a una terminal de su
 maquina. Para ello ejecute el siguiente comando (Puede obtener el comando en el addon dashboard de clever cloud en la opción MySQL CLI):
