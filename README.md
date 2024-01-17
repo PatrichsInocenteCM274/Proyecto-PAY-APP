@@ -42,7 +42,7 @@ mysql> CREATE TABLE transactions(
 ~~~
 
 Ahora, es necesario para que nuestra aplicación pueda conectarse a esta base de datos proporcionarle las creedenciales necesarias, por ello usted debe añadir 
-sus propias credenciales en el archivo /pinocentevpayapp_api_server/.env entorno .env, rellene los campos relacionados con las credenciales de su base de datos,
+sus propias credenciales en el archivo /pinocentevpayapp_api_server/.env, rellene los campos relacionados con las credenciales de su base de datos,
 todas ellas las puede encontrar en su dashboard de clever cloud.
 
 ### 2. Configuraciones relacionadas a Stripe
