@@ -1,4 +1,3 @@
 # PinocentePayApp
 
-FRONTED de Aplicación
-Esta aplicación fue realizada con Vue.js
+FRONTED de Aplicación realizada con Vue.js
